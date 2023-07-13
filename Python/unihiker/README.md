@@ -6,9 +6,9 @@ Modify the raspberrypi library for this sensor to pinpong for unihiker
 
 ```bash
 git clone https://github.com/liliang9693/DFRobot_SGP40
-cd DFRobot_SGP40/Python/unihik
+cd DFRobot_SGP40/Python/unihiker
 python example_get_raw_value.py
-python example_get_voc_index
+python example_get_voc_index.py
 ```
 
 # Display on screen
